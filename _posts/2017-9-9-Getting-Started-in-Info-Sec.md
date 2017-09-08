@@ -2,21 +2,6 @@
 layout: post
 title: Getting Started (in Info Sec)
 ---
-Courses
-======
-
-### TL;DR
-| Course        | Key Topics  |
-| ------------- | -----:|
-| [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) |  C, Algorithms, Development |
-| [Netowrking](https://www.youtube.com/playlist?list=PLmdYg02XJt6QRQfYjyQcMPfS3mrSnFbRC) | Networking, Common Protocols |
-| [FSU: Offensive Computer Security](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/) | Web App, Networking, Exploit Dev |
-| [Metasploitable](https://www.offensive-security.com/metasploit-unleashed/) | Using Kali, Pentesting Processes|
-| [WAHH](https://www.amazon.co.uk/dp/B005LVQA9S/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)| Burp Suite, Web App Testing |
-| [x86](http://opensecuritytraining.info/IntroX86.html) | x86 assembly, GDB |
-| [Exploits 1](http://opensecuritytraining.info/Exploits1.html) | Linux Exploits, stack & heap exploits, writing shellcode |
-| [Exploits 2](http://opensecuritytraining.info/Exploits2.html) | Windows Exploits, defeating anti-exploitation mitigation |
-
 
 Why
 ------
@@ -24,6 +9,7 @@ Why
 I often meet people who want to get started in infosec but haven't a clue where to start. Having transitioned from something totally unrelated myself, I've made a little list of things I found handy. The astute among you will note there is a bit of bias for pentesting type topics, good job. One thing that is probably missing from this list - Windows domains. Love or hate Windows if you work in info sec most likely your job is going to involve Windows domains; go research more about it, or don't - I'm not your boss.
 
 If you're in the UK and serious about having a career in info sec you need to be doing the [UK Cyber Security Challenge](https://www.cybersecuritychallenge.org.uk/). These courses, along with a load of trial and error, taught me enough to get through to the final stages and from that a career in info sec. In all honesty; you'll probably struggle at the start, don't give up - just go learn more stuff.
+
 
 ### Groundwork
 
@@ -39,6 +25,8 @@ By far the best, most structured, well supported and useful MOOC I've taken. If 
 * Basics of understanding and implementing algorithms 
 * Intro to web technologies and development 
 
+
+
 #### Networking
 _How does I internet_
 
@@ -51,8 +39,12 @@ You really don't need to be a network architect however knowing your TCP from yo
 * Routing
 * Common protocols
 
+
+
 ### Security Focus
 After the basics you can get started with more security focused topics, if you already have a background in IT/networking/development you can probably start here.
+
+
 
 #### FSU: Offensive Computer Security
 _Hacking 101_
@@ -67,6 +59,8 @@ This will give you a little overview of most of the technical aspects of info se
 * Reverse engineering / exploit dev
 * Much more..
 
+
+
 #### Metasploitable
 _Oh yeah, that's like metasploit and stuff_
 
@@ -79,6 +73,8 @@ You're probably raring to get your hands into popping boxes and unleashing amazi
 * Network security
 * Web Security
 * Pentesting process
+
+
 
 #### Web Application Hackers Handbook
 _Wait, you never said there would be reading..._
@@ -95,8 +91,12 @@ Ok, so not only is reading; it also isn't free. That said there is a reason this
 * Web application testing methodology
 * Excellent reference material for future testing 
 
+
+
 ### Low-level
 I personally have a great love for low-level computing, reverse engineering and, exploits hence the topics here are focused toward these. I think everyone in info sec should learn the basics of x86 assembly as in the end, pretty much everything we do is going to involve around computers.
+
+
 
 #### x86 Assembly - Open Security Training (OST)
 _0x90 0x90 0x90 0x90_
@@ -109,6 +109,8 @@ Some people don't get on with the open security training course - I'll admit the
 * Core understnading of x86 assembly
 * Using the GDB debuger
 * First steps in exploit deb 
+
+
 
 #### Exploits 1 & 2 - Open Security Training (OST)
 _pop some boxes, smash the stack..._
