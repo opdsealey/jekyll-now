@@ -6,5 +6,5 @@ permalink: /about/
 
 ### About
 
-Carbon Based Security Work Unit. 
+I learn stuff and then forget it so I figured I'd start writing it down.
 
