@@ -13,7 +13,7 @@ Courses
 | [FSU: Offensive Computer Security](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/) | Web App, Networking, Exploit Dev |
 | [Metasploitable](https://www.offensive-security.com/metasploit-unleashed/) | Using Kali, Pentesting Processes|
 | [WAHH](https://www.amazon.co.uk/dp/B005LVQA9S/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)| Burp Suite, Web App Testing |
-| [x86](http://opensecuritytraining.info/IntroX86.html | x86 assembly, GDB |
+| [x86](http://opensecuritytraining.info/IntroX86.html) | x86 assembly, GDB |
 | [Exploits 1](http://opensecuritytraining.info/Exploits1.html) | Linux Exploits, stack & heap exploits, writing shellcode |
 | [Exploits 2](http://opensecuritytraining.info/Exploits2.html) | Windows Exploits, defeating anti-exploitation mitigation |
 
