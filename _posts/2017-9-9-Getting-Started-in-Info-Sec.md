@@ -11,8 +11,8 @@ I often meet people who want to get started in infosec but haven't a clue where 
 If you're in the UK and serious about having a career in info sec you need to be doing the [UK Cyber Security Challenge](https://www.cybersecuritychallenge.org.uk/). These courses, along with a load of trial and error, taught me enough to get through to the final stages and from that a career in info sec. In all honesty; you'll probably struggle at the start, don't give up - just go learn more stuff.
 
 
-### Groundwork
-
+Groundwork
+------
 #### CS50
 _start here_
 
@@ -41,7 +41,8 @@ You really don't need to be a network architect however knowing your TCP from yo
 
 
 
-### Security Focus
+Security Focus
+------
 After the basics you can get started with more security focused topics, if you already have a background in IT/networking/development you can probably start here.
 
 
@@ -93,7 +94,8 @@ Ok, so not only is reading; it also isn't free. That said there is a reason this
 
 
 
-### Low-level
+Low-level
+------
 I personally have a great love for low-level computing, reverse engineering and, exploits hence the topics here are focused toward these. I think everyone in info sec should learn the basics of x86 assembly as in the end, pretty much everything we do is going to involve around computers.
 
 
