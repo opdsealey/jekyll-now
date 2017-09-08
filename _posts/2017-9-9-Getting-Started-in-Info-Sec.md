@@ -3,10 +3,6 @@ layout: post
 title: Getting Started (in Info Sec)
 ---
 
-
-Why?
-------
-
 I often meet people who want to get started in infosec but haven't a clue where to start. Having transitioned from something totally unrelated myself, I've made a little list of things I found handy. The astute among you will note there is a bit of bias for pentesting type topics, good job. One thing that is probably missing from this list - Windows domains. Love or hate Windows if you work in info sec most likely your job is going to involve Windows domains; go research more about it, or don't - I'm not your boss.
 
 If you're in the UK and serious about having a career in info sec you need to be doing the [UK Cyber Security Challenge](https://www.cybersecuritychallenge.org.uk/). These courses, along with a load of trial and error, taught me enough to get through to the final stages and from that a career in info sec. In all honesty; you'll probably struggle at the start, don't give up - just go learn more stuff.
