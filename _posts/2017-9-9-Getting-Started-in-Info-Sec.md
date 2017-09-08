@@ -3,7 +3,8 @@ layout: post
 title: Getting Started (in Info Sec)
 ---
 
-Why
+
+Why?
 ------
 
 I often meet people who want to get started in infosec but haven't a clue where to start. Having transitioned from something totally unrelated myself, I've made a little list of things I found handy. The astute among you will note there is a bit of bias for pentesting type topics, good job. One thing that is probably missing from this list - Windows domains. Love or hate Windows if you work in info sec most likely your job is going to involve Windows domains; go research more about it, or don't - I'm not your boss.
