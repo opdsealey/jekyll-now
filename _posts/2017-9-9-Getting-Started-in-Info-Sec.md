@@ -5,7 +5,7 @@ title: Getting Started (in Info Sec)
 
 I often meet people who want to get started in infosec but haven't a clue where to start. Having transitioned from something totally unrelated myself, I've made a little list of things I found handy. The astute among you will note there is a bit of bias for pentesting type topics, good job. One thing that is probably missing from this list - Windows domains. Love or hate Windows if you work in info sec most likely your job is going to involve Windows domains; go research more about it, or don't - I'm not your boss.
 
-If you're in the UK and serious about having a career in info sec you need to be doing the [UK Cyber Security Challenge](https://www.cybersecuritychallenge.org.uk/). These courses, along with a load of trial and error, taught me enough to get through to the final stages and from that a career in info sec. In all honesty; you'll probably struggle at the start, don't give up - just go learn more stuff.
+If you're in the UK and serious about having a career in info sec you need to be doing the [UK Cyber Security Challenge](https://www.cybersecuritychallenge.org.uk/). The courses and links below, along with a load of trial and error, taught me enough to get through to the final stages and from that a career in info sec. In all honesty; you'll probably struggle at the start, don't give up - just go learn more stuff.
 
 
 Groundwork
@@ -79,7 +79,7 @@ _Wait, you never said there would be reading..._
 
 [Link](https://www.amazon.co.uk/dp/B005LVQA9S/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
-Ok, so not only is reading; it also isn't free. That said there is a reason this is on the list - it's pretty much the best resource for learning web application security. I didn't actually read this book until _after_ I'd started in info sec and I wish I'd read it before. The book is a cross between web application security and an experts guide to the Burp Suite (it's written by the guy that dev'd it - go figure). 
+Ok, so not only is it reading; it also isn't free. That said there is a reason this is on the list - it's pretty much the best resource for learning web application security. I didn't actually read this book until _after_ I'd started in info sec and I wish I'd read it before. The book is a cross between web application security and an experts guide to the Burp Suite (it's written by the guy that dev'd it - go figure). 
 
 **NB**: Write your name in the front of this as it'll probably end up on your desk and end up going walking...
 
@@ -93,7 +93,7 @@ Ok, so not only is reading; it also isn't free. That said there is a reason this
 
 Low-level
 ------
-I personally have a great love for low-level computing, reverse engineering and, exploits hence the topics here are focused toward these. I think everyone in info sec should learn the basics of x86 assembly as in the end, pretty much everything we do is going to involve around computers.
+I personally have a great love for low-level computing, reverse engineering, and exploits hence the topics here are focused toward these. I think everyone in info sec should learn the basics of x86 assembly as in the end, pretty much everything we do is going to involve around computers.
 
 
 
@@ -102,7 +102,7 @@ _0x90 0x90 0x90 0x90_
 
 [Link](http://opensecuritytraining.info/IntroX86.html)
 
-Some people don't get on with the open security training course - I'll admit the videos aren't exactly 4K. That said, if you can get passed that all the course on OST are amazingly high quality, well taught and pretty much equivalent to security courses costing thousands. As of the time of writing I;m also going through the [intermediate version](http://opensecuritytraining.info/IntermediateX86.html) which is also excellent. 
+Some people don't get on with the open security training course - I'll admit the videos aren't exactly 4K. That said, if you can get passed that all the course on OST are amazingly high quality, well taught and pretty much equivalent to security courses costing thousands. As of the time of writing I,m also going through the [intermediate version](http://opensecuritytraining.info/IntermediateX86.html) which is also excellent. 
 
 #### Key Points
 * Core understnading of x86 assembly
